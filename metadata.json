@@ -1,0 +1,6 @@
+{
+  "name": "Tertemiz Yarınlar",
+  "description": "Okul ve kamusal alanlarda hijyen bildirimi, 20 saniyelik el yıkama rehberi, su tasarrufu ve sıfır atık takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tertemiz Yarınlar</string>
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_reports">Bildirim</string>
+    <string name="nav_timer">Tasarruf</string>
+    <string name="nav_badges">Rozetler</string>
+    <string name="nav_guide">Rehber</string>
+    <string name="hero_banner_desc">Tertemiz Yarınlar hijyen, su tasarrufu ve sıfır atık illüstrasyonu</string>
+    <string name="action_quick_report">Hızlı Bildirim Oluştur</string>
+    <string name="action_start_handwash">20 Sn El Yıkama Başlat</string>
+    <string name="action_save_report">Bildirimi Kaydet</string>
+    <string name="action_reset_data">Verileri Sıfırla</string>
+    <string name="action_restore_sample">Örnek Verileri Yükle</string>
+</resources>
